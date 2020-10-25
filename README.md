@@ -30,6 +30,7 @@ Know python basic
   Matplotlib
   sklearn
   Numpy
+  Seaborn
   
                                  Sources
 http://inep.gov.br/microdados
