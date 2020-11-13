@@ -26,15 +26,15 @@ Account in google (if you will to use colab)
 Know python basic
                         
 ## Library
-  Pandas
-  Matplotlib
-  sklearn
-  Numpy
+  Pandas,
+  Matplotlib ,
+  sklearn,
+  Numpy ,
   Seaborn
   
  ## Sources
-http://inep.gov.br/microdados
-https://www.alura.com.br/imersao-dados/
-https://pandas.pydata.org
-https://scikit-learn.org
+http://inep.gov.br/microdados ,
+https://www.alura.com.br/imersao-dados/ ,
+https://pandas.pydata.org , 
+https://scikit-learn.org ,
 https://matplotlib.org
