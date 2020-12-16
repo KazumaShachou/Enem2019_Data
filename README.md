@@ -1,7 +1,7 @@
 # Enem 2019
 
 This is a project where I used the ENEM, it's a educational system from Brazil, it's like an entrance exam for college, so I will explain everything in english, but the colums names are in portuguese-BR
-This project has 5 topics where I will discuss with you eveything and how to make this ,so you just need to open the jupyter notebook using this link(https://colab.research.google.com/github/KazumaShachou/Enem2019_Data/blob/main/enem2019.ipynb) and in seve a copy of it for your repository and enjoin!
+This project has 5 topics where I will discuss with you eveything and how to make this ,so you just need to open the jupyter notebook using this link(https://colab.research.google.com/github/KazumaShachou/Enem2019_Data/blob/main/enem2019.ipynb) and in seve a copy of it for your repository and enjoy!
 
 #Topics
 ## Data analysis in education 
